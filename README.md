@@ -37,4 +37,4 @@ celery flower --broker=redis://localhost
 ```
 
 ### Examples 
-Try out some [dummy test](testings.ipynb)
+Try out some [dummy test](testings.ipynb)，it's a notebook file located in current directory
